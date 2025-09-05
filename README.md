@@ -49,5 +49,5 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 ## Let's Connect!
 
 - GitHub: https://github.com/hannahbang1108
-- LinkedIn: https://www.linkedin.com/in/hannah-bang-25b704291/
+- LinkedIn: https://www.linkedin.com/in/hannahbang1108/
 - Email: bang.ha@northeastern.edu
