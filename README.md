@@ -44,7 +44,9 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 
 **Bang Academy** | _Developer_ | London, UK _(November 2024)_
 
-- Created a website inspired by Khan Academy that covers Boolean symbols, truth tables, and Boolean laws using videos, practice problems, and summaries using HTML, CSS, and JavaScript
+- Developed and launched an interactive educational website inspired by Khan Academy on Boolean algebra with custom practice problems and external video content using HTML, CSS, and JavaScript
+- Created a structured, three-part learning platform that guides users from foundational Boolean concepts (symbols and truth tables) to advanced applications (Boolean laws) through a combination of videos, summaries, and practice problems
+
 
 ## Let's Connect!
 
