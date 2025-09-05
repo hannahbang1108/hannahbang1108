@@ -4,9 +4,8 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 
 ## Technologies & Tools
 
-- **Programming**: Python, Java, JavaScript, R, C++, Kotlin
+- **Programming**: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Java, JavaScript, R, C++, Kotlin
 - **Web Development**: Flask, HTML, CSS, JSON, RESTful APIs
-- **Data Analysis & AI**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 - **Tools**: Git/GitHub, VS Code, ArcGIS, Retool, n8n, Microsoft Office Suite, Davinci Resolve, Kapwing
 
 ## Work Experience
