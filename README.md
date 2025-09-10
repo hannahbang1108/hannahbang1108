@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hannah Bang (she/her)
 
-I’m a motivated college student currently pursuing a **Computer Science** degree at **Northeastern University** with a strong interest in **Data Science**, **Software Engineering**, **Artificial Intelligence**, and **Machine Learning**. I'm enthusiastic about expanding my knowledge, acquiring valuable work experience, and exploring opportunities in these fields.
+I’m a motivated college student currently pursuing a **Computer Science** degree at **Northeastern University** with a strong interest in **Software Engineering**, **Web Development**, **Data Science**, **Artificial Intelligence**, and **Machine Learning**. I'm enthusiastic about expanding my knowledge, acquiring valuable work experience, and exploring opportunities in these fields.
 
 ## Technologies & Tools
 
@@ -12,30 +12,35 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 
 **Northeastern University, Khoury College of Computer Sciences** | _Student Researcher_ | Boston, MA _(June 2025 - Present)_    
 
-- Advertised a survey to all Khoury students gauging general feelings of loneliness, and used excel to create a detailed summary of the survey data
-- Compiled literature review on survey findings and the psychological aspects of loneliness and its impact on society
-- Designed a web/mobile application based on survey results that works to combat issues of loneliness on campus, and is intended to be released to Northeastern Students
+- Designed a full-stack web/mobile application to address student loneliness on campus based on survey-driven insights, which is intended to be released to all Northeastern Students
+- Conducted survey outreach with 440+ Khoury student responses and compiled a literature review to summarize results, discuss the impact of loneliness on society, and guide app features and user experience design
 
 **Stateable** | _Software Engineer Intern_ | New York, NY _(May 2025 - August 2025)_     
 
-- Parsed documents for an insurance platform that automates the extraction and reconciliation of data from documents like commission statements, quotes, and claims using AI Agents and Python
-- Built in-house software using Retool that researches target companies and generates personalized messages using Large Language Models (LLMs), and uses workflows in n8n to automate sales outreach via LinkedIn and email using Python, HTML, CSS, and JavaScript
+- Built in-house software that researches target companies and generates personalized messages using Retool and LLMs, and used n8n workflows to automate sales outreach via LinkedIn and email using the Gmail API, Python, HTML, CSS, and JavaScript
+- Parsed documents for an insurance platform that automates the extraction and reconciliation of data from documents like commission statements, quotes, and claims using AI Agents and Python.
 - Facilitated sales calls to answer potential clients’ questions and showcase the insurance platform
 
 **National Geospatial-Intelligence Agency (NGA)** | _Imagery Analyst Intern_ | Springfield, VA _(June 2024 - August 2024)_             
 
-- Developed familiarity with geospatial intelligence (GEOINT) tradecraft, remote sensing, geospatial information system (GIS) software, and Middle Eastern topics in a classified environment
-- Produced a formal intelligence report and completed a geoprocessing tool script in Python, which automates part of a map-making process, outputs relevant statistical calculations on a hard-coded website, and enables production for other teammates
+- Developed a geoprocessing tool script using Python that automates map-making processes, and a hard-coded website using HTML and CSS to compute relevant statistical outputs, enabling faster production for other teammates
+- Applied data analysis techniques using GIS software, remote sensing, and geospatial intelligence (GEOINT) methods to generate a classified intelligence report on Middle Eastern topics, which was added to NGA’s database for future use by other branches
                                                                                                                            
 **Certintell Telehealth** | _Developer Intern_ | Virtual _(June 2023 - August 2023)_    
 
-- Built code with the ability to receive and process e-mail and SMS messages with AWS Lambda and the Gmail API using Python
+- Developed a serverless communication system to process and manage incoming email and SMS messages
+- Engineered the solution using AWS Lambda, the Gmail API, and Python to handle all data processing
 
 **Quest Student Research Institution (QSRI)** | _Researcher Intern_ | Virtual _(June 2022 - July 2022)_                                
 
 - Investigated the correlation between confirmed cases and deaths before and after the COVID-19 Vaccination Campaign launch by analyzing graphical data and applying it to a programming context using C++
 
 ## Projects
+
+**Resume Builder Tool** | _Data Analyst_ | Fairfax, VA _(May 2025 - June 2025)_
+
+- Enhanced an existing resume maker by refining functionality and code structure to enhance reliability and user experience
+- Integrated a GUI interface with automated Word document formatting, enabling users to input information and instantly produce a professional resume
 
 **Best Computer Science Job Finder** | _Data Scientist_ | London, UK _(April 2024)_
 
