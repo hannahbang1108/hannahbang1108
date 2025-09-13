@@ -5,13 +5,14 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 ## Technologies & Tools
 
 - **Programming**: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Java, JavaScript, R, C++, Kotlin
-- **Web Development**: Flask, HTML, CSS, JSON, RESTful APIs
+- **Web Development**: Flask, HTML, CSS, JSON, RESTful APIs, React
 - **Tools**: Git/GitHub, VS Code, ArcGIS, Retool, n8n, Microsoft Office Suite, Davinci Resolve, Kapwing
 
 ## Work Experience
 
-**Northeastern University, Khoury College of Computer Sciences** | _Student Researcher_ | Boston, MA _(June 2025 - Present)_    
+**Northeastern University, Khoury College of Computer Sciences** | _Student Researcher, Base Camp Fellowship_ | Boston, MA _(June 2025 - Present)_    
 
+- Selected for a competitive, faculty-mentored fellowship designed to provide early-stage research experience
 - Designed a full-stack web/mobile application to address student loneliness on campus based on survey-driven insights, which is intended to be released to all Northeastern Students
 - Conducted survey outreach with 440+ Khoury student responses and compiled a literature review to summarize results, discuss the impact of loneliness on society, and guide app features and user experience design
 
@@ -37,6 +38,10 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 
 ## Projects
 
+**LinkedIn-Email Automation Tool** | _Software Developer_ | Fairfax, VA | _(May 2025 – June 2025)_  
+- Developed a Flask-based web application to automate email outreach via the Gmail API and streamline LinkedIn prospecting by formatting contact data from CSV files
+- Integrated Google Cloud Console and pandas to securely manage credentials, process contact data, and enable personalized email campaigns with user-friendly web routes and interfaces
+
 **Resume Builder Tool** | _Data Analyst_ | Fairfax, VA _(May 2025 - June 2025)_
 
 - Enhanced an existing resume maker by refining functionality and code structure to enhance reliability and user experience
@@ -47,11 +52,10 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 - Analyzed recent Computer Science job salary data from the 'AI, ML, Data Science Salary (2020- 2025)' dataset on Kaggle to figure out the best Computer Science jobs to pursue in 2025 using various Python Libraries (i.e, pandas, numpy, matplotlib, seaborn)
 - Calculated various summary statistics and produced various types of graphs, and wrote a reflection on the results
 
-**Bang Academy** | _Developer_ | London, UK _(November 2024)_
+**Bang Academy** | _Web Developer_ | London, UK _(October 2024 - November 2024)_
 
 - Developed and launched an interactive educational website inspired by Khan Academy on Boolean algebra with custom practice problems and external video content using HTML, CSS, and JavaScript
 - Created a structured, three-part learning platform that guides users from foundational Boolean concepts (symbols and truth tables) to advanced applications (Boolean laws) through a combination of videos, summaries, and practice problems
-
 
 ## Let's Connect!
 
