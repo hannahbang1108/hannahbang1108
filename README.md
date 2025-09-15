@@ -39,8 +39,8 @@ I’m a motivated college student currently pursuing a **Computer Science** degr
 ## Projects
 
 **LinkedIn-Email Automation Tool** | _Software Developer_ | Fairfax, VA | _(May 2025 – June 2025)_  
-- Developed a Flask-based web application using HTML, CSS, and JavaScript to automate email outreach via the Gmail API and streamline LinkedIn prospecting by formatting contact data from CSV files
-- Integrated Google Cloud Console and pandas to securely manage credentials, process contact data, and enable personalized email campaigns with user-friendly web routes and interfaces
+- Developed a Flask-based web application by utilizing Gmail APIs to fully automate email outreach process and streamlined LinkedIn prospecting by designing and implementing a contact database management system
+- Integrated Google Cloud Console and Pandas to securely manage credentials, process contact data, and enable personalized email campaigns with user-friendly web routes and interfaces
 
 **Resume Builder Tool** | _Data Analyst_ | Fairfax, VA _(May 2025 - June 2025)_
 
