@@ -4,17 +4,18 @@ I’m a motivated college student currently pursuing a Computer Science degree a
 
 ## Technologies & Tools
 
-- **Programming**: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Java, JavaScript, R, C++, Kotlin
-- **Web Development**: Flask, HTML, CSS, JSON, RESTful APIs, React
-- **Tools**: Git/GitHub, VS Code, ArcGIS, Figma, Retool, n8n, Microsoft Office Suite, Davinci Resolve, Kapwing
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Java, R, C++, Kotlin
+- **Web & Software Development:** Flask, FastAPI, React, TypeScript, JavaScript, HTML, CSS, JSON, RESTful APIs
+- **Databases:** PyMySQL, SQL, MySQL, MongoDB
+- **Tools/OS:** Git/GitHub, Windows, Command Line, VS Code, IntelliJ, Jupyter Notebook, Figma, Retool, n8n, Microsoft Office Suite
 
 ## Work Experience
 
 **Northeastern University, Khoury College of Computer Sciences** | _Student Researcher, Base Camp Fellowship_ | Boston, MA _(June 2025 - Present)_    
 
 - Selected for a competitive, faculty-mentored fellowship designed to provide early-stage research experience
-- Designed a full-stack web/mobile application to address student loneliness on campus based on survey-driven insights, which is intended to be released to all Northeastern Students
-- Conducted survey outreach with 440+ Khoury student responses and compiled a literature review to summarize results, discuss the impact of loneliness on society, and guide app features and user experience design
+- Designed and developed Proximate, a mobile application that addresses student loneliness by enabling spontaneous, location-based interactions through user-placed “beacons,” informed by survey-driven insights and targeted for campus-wide release
+- Conducted survey outreach and gathered 440+ responses from Khoury students, and compiled a literature review to analyze findings, discuss and explore the societal impact of loneliness, and guide app features and user experience design
 
 **Stateable** | _Software Engineer Intern_ | New York, NY _(May 2025 - August 2025)_     
 
