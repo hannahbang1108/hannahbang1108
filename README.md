@@ -1,56 +1,33 @@
-## Hi there 👋 I'm Hannah Bang (she/her)
+## Introduction
 
-I’m a motivated college student currently pursuing a Computer Science degree at Northeastern University with a strong interest in Software Engineering and Product Development. I’m enthusiastic about expanding my knowledge, acquiring valuable work experience, and exploring opportunities in these fields.
+I’m Hannah Bang, a second-year Computer Science student at Northeastern University with a focus on software engineering and product development. I’m passionate about building user-focused, full-stack applications that positively impact the community. Through my coursework, extracurriculars, and work experiences, I’ve developed a strong proficiency in Python, Java, JavaScript/TypeScript, SQL, and React, and want to continue applying these skills to real-world projects.
 
 ## Technologies & Tools
 
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Java, R, C++, Kotlin
-- **Web & Software Development:** Flask, FastAPI, React, TypeScript, JavaScript, HTML, CSS, JSON, RESTful APIs
-- **Databases:** PyMySQL, SQL, MySQL, MongoDB
-- **Tools/OS:** Git/GitHub, Windows, Command Line, VS Code, IntelliJ, Jupyter Notebook, Figma, Retool, n8n, Microsoft Office Suite
+- **Programming & Python Libraries:** Python (Pandas, NumPy, Flask, FastAPI, PyMySQL), Java, R, C++, Kotlin, SQL
+- **Full-Stack Development:** React, TypeScript, JavaScript, HTML, CSS, REST APIs, JSON, MySQL, MongoDB, Supabase
+- **Tools & IDEs:** Git/GitHub, VS Code, IntelliJ, Jupyter Notebook, Command Line, Figma, Retool, n8n, Windows, Microsoft Office
 
 ## Work Experience
 
 **Northeastern University, Khoury College of Computer Sciences** | _Student Researcher, Base Camp Fellowship_ | Boston, MA _(June 2025 - Present)_    
-
-- Selected for a competitive, faculty-mentored fellowship designed to provide early-stage research experience
-- Designed and developed Proximate, a mobile application that addresses student loneliness by enabling spontaneous, location-based interactions through user-placed “beacons,” informed by survey-driven insights and targeted for campus-wide release
-- Conducted survey outreach and gathered 440+ responses from Khoury students, and compiled a literature review to analyze findings, discuss and explore the societal impact of loneliness, and guide app features and user experience design
+- Designed and developed Proximate, a mobile application addressing student loneliness through spontaneous, location-based interactions via user-placed “beacons,” targeted for campus-wide release
+- Conducted survey outreach and applied insights from 440+ Khoury student responses, using paper prototyping and Figma to refine features and user experience
 
 **Stateable** | _Software Engineer Intern_ | New York, NY _(May 2025 - August 2025)_     
-
-- Developed a Flask-based web application by utilizing Gmail APIs to fully automate email outreach processes and streamlined LinkedIn prospecting by designing and implementing a contact database management system
-- Integrated Google Cloud Console and Pandas to securely manage credentials, process contact data, and enable personalized email campaigns with user-friendly web routes and interfaces
-- Built in-house software that researches target companies and generates personalized messages using Retool and LLMs, and uses n8n workflows to automate sales outreach via LinkedIn and email using the Gmail API and JavaScript
-- Facilitated sales calls to answer potential clients’ questions and showcase the insurance platform
+- Developed a Flask web application to automate email and LinkedIn outreach using Gmail APIs, Google Cloud authentication, and Pandas to process and manage a contact database for personalized email campaigns
+- Built and extended in-house sales automation software integrated with the Flask application, leveraging LLMs, Retool, JavaScript, and n8n workflows to research target companies and automate personalized outreach via emails and LinkedIn connections
 
 **National Geospatial-Intelligence Agency (NGA)** | _Imagery Analyst Intern_ | Springfield, VA _(June 2024 - August 2024)_             
-
 - Developed a geoprocessing tool script using Python that automates map-making processes, and a hard-coded website using HTML and CSS to compute relevant statistical outputs, enabling faster production for other teammates
 - Applied data analysis techniques using GIS software, remote sensing, and geospatial intelligence (GEOINT) methods to generate a classified intelligence report on Middle Eastern topics, which was added to NGA’s database for future use by other branches
 
 ## Projects
 
 **KitchenCloud** | Software Product Lab Developer | Boston, MA | _(Sep 2025 - Dec 2025)_
-- Collaborated with a 9-member team to design and build KitchenCloud, a mobile application that streamlines food inventory management, centralizes kitchen data, and supports shared living environments.
-- Built and styled the “What’s in Our Kitchen” page by designing the homepage UI/UX and implementing a dynamic, search-based food item filtering system using React and TypeScript.
-- Developed the backend logic for the “Recipes” page, integrating a Python service with the OpenAI API to analyze user-submitted recipes and generate real-time, context-aware food item suggestions.
-- Designed and implemented both the frontend and backend for the “Favorite Recipes” page, enabling users to tag, save, and share recipes through a seamless, end-to-end user experience.
-
-**Resume Builder Tool** | _Data Analyst_ | Fairfax, VA _(May 2025 - June 2025)_
-
-- Enhanced an existing resume maker by refining functionality and code structure to enhance reliability and user experience
-- Integrated a GUI interface with automated Word document formatting, enabling users to input information and instantly produce a professional resume
-
-**Best Computer Science Job Finder** | _Data Scientist_ | London, UK _(April 2024)_
-
-- Analyzed recent Computer Science job salary data from the 'AI, ML, Data Science Salary (2020- 2025)' dataset on Kaggle to figure out the best Computer Science jobs to pursue in 2025 using various Python Libraries (i.e, pandas, numpy, matplotlib, seaborn)
-- Calculated various summary statistics and produced various types of graphs, and wrote a reflection on the results
-
-**Bang Academy** | _Web Developer_ | London, UK _(October 2024 - November 2024)_
-
-- Developed and launched an interactive educational website inspired by Khan Academy on Boolean algebra with custom practice problems and external video content using HTML, CSS, and JavaScript
-- Created a structured, three-part learning platform that guides users from foundational Boolean concepts (symbols and truth tables) to advanced applications (Boolean laws) through a combination of videos, summaries, and practice problems
+- Collaborated with a 9-member product team to design and build KitchenCloud, a mobile app that helps people organize kitchen data and track food inventory in shared living spaces
+- Built frontend features using React and TypeScript, including searchable views and intuitive interfaces for browsing, managing, and saving food items and recipes
+- Implemented backend functionality in Python, integrating OpenAI APIs and Supabase to store user data, analyze user-submitted recipes to generate real-time ingredient suggestions, and let users save their favorite recipes
 
 ## Let's Connect!
 
