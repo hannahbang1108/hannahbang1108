@@ -26,7 +26,11 @@ I’m Hannah Bang, a third-year Computer Science student at Northeastern Univers
 
 ## Projects
 
-**Inside Athletics** | Software Engineer | Boston, MA | (Jan 2026 – June 2026)
+**Scout** | Junior Developer | Boston, MA | (Jan 2026 – Apr 2026)
+- Developed the official website for NUMAC, a student-led marketing consulting organization at Northeastern University, creating a modern and responsive web presence to represent the club externally  
+- Built and implemented user-facing pages for NUMA Consulting using React, TypeScript, and Tailwind CSS, improving accessibility for prospective clients and strengthening the organization’s online visibility
+- 
+**Inside Athletics** | Software Engineer | Boston, MA | (Jan 2026 – Apr 2026)
 - Collaborated with a cross-functional team of engineers and designers to develop Inside Athletics, a client-sponsored discussion platform for aspiring college student athletes, building frontend features that enable tag-based content organization, video uploads, and personalized user feeds
 - Architected backend services and APIs, designing data models powering post creation, tagging logic, and feed generation across sport, school, and athlete-interest communities
 
