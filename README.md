@@ -26,6 +26,10 @@ I’m Hannah Bang, a third-year Computer Science student at Northeastern Univers
 
 ## Projects
 
+**Inside Athletics** | Software Engineer | Boston, MA | (Jan 2026 – June 2026)
+- Collaborated with a cross-functional team of engineers and designers to develop Inside Athletics, a client-sponsored discussion platform for aspiring college student athletes, building frontend features that enable tag-based content organization, video uploads, and personalized user feeds
+- Architected backend services and APIs, designing data models powering post creation, tagging logic, and feed generation across sport, school, and athlete-interest communities
+
 **KitchenCloud** | Software Product Lab Developer | Boston, MA | _(Sep 2025 - Dec 2025)_
 - Partnered with a 9-member product team to design and develop KitchenCloud, a mobile application for shared kitchen inventory management, designing responsive frontend features in React and TypeScript with searchable food and recipe management
 - Engineered AI-powered backend features using Python, OpenAI APIs, and Supabase to analyze submitted recipes, generate real-time ingredient recommendations, and enable personalized recipe storage and retrieval
