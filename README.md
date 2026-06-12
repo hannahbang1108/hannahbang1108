@@ -11,7 +11,7 @@ I’m Hannah Bang, a third-year Computer Science student at Northeastern Univers
 
 ## Work Experience
 
-**S2N Health** | _Full-Stack Software Engineer Co-op_ | Boston, MA _(January 2025 - Present)_    
+**S2N Health** | _Full-Stack Software Engineer Co-op_ | Boston, MA _(January 2026 - Present)_    
 - Delivered frontend enhancements for RepSignal, S2N Health's AI-powered MedTech platform (standalone and Salesforce-integrated), improving UI/UX across Vue, HTML/Jinja, CSS, and JavaScript
 - Optimized backend services using Python and SQLAlchemy, refining database queries and platform logic to improve performance and data retrieval efficiency
 - Collaborated on a Salesforce agent with multiple plugins to leverage backend resources and enhanced the MCP server to detect data changes and automatically deliver timely, relevant newsfeed updates to sales representatives
