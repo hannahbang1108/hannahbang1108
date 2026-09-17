@@ -1,6 +1,6 @@
 ## Introduction
 
-I’m Hannah Bang, a third-year Computer Science student at Northeastern University with a focus on software engineering and product development. I’m passionate about building user-focused, full-stack applications that positively impact the community. Through my coursework, extracurriculars, and work experiences, I’ve developed a strong proficiency in Python, Java, JavaScript/TypeScript, SQL, React, Vue, and Go, and want to continue applying these skills to real-world projects.
+I’m Hannah Bang, a third-year Computer Science student at Northeastern University with a focus on software engineering, artificial intelligence, and product development. I’m passionate about building user-focused, full-stack applications that positively impact the community. Through my coursework, extracurriculars, and work experiences, I’ve developed a strong proficiency in Python, Java, JavaScript/TypeScript, SQL, React, Vue, and Go, and want to continue applying these skills to real-world projects.
 
 ## Technologies & Tools
 
@@ -11,12 +11,12 @@ I’m Hannah Bang, a third-year Computer Science student at Northeastern Univers
 
 ## Work Experience
 
-**S2N Health** | _Full-Stack Software Engineer Co-op_ | Boston, MA _(January 2026 - Present)_    
+**S2N Health** | _Full-Stack Software Engineer Co-op_ | Boston, MA _(January 2026 - July 2026)_    
 - Delivered frontend enhancements for RepSignal, S2N Health's AI-powered MedTech platform (standalone and Salesforce-integrated), improving UI/UX across Vue, HTML/Jinja, CSS, and JavaScript
 - Optimized backend services using Python and SQLAlchemy, refining database queries and platform logic to improve performance and data retrieval efficiency
 - Collaborated on a Salesforce agent with multiple plugins to leverage backend resources and enhanced the MCP server to detect data changes and automatically deliver timely, relevant newsfeed updates to sales representatives
 
-**Northeastern University, Khoury College of Computer Sciences** | _Student Researcher, Base Camp Fellowship_ | Boston, MA _(June 2025 - Present)_    
+**Northeastern University, Khoury College of Computer Sciences** | _Student Researcher, Base Camp Fellowship_ | Boston, MA _(June 2025 - July 2026)_    
 - Designed and developed Proximate, a mobile application addressing student loneliness through spontaneous, location-based interactions via user-placed “beacons,” targeted for campus-wide release
 - Conducted survey outreach and applied insights from 440+ Khoury student responses, using paper prototyping and Figma to refine features and user experience
 
